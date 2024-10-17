@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aminoelfajar
+- 👀 I’m interested in Web Development and Cloud Engineering
+- 🌱 I'm currently building a portfolio to enhance my career, focusing on expanding my skills in website development and cloud engineering
+- 💞️ I’m open to collaboration and always eager to learn more from the community. Let’s connect and create something great together!
+- 
